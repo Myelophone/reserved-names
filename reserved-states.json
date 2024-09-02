@@ -1,0 +1,986 @@
+[
+	{
+		"name": "Afghanistan",
+		"shortNames": ["afghan"],
+		"url": "https://www.afghanistan.gov.af"
+	},
+	{
+		"name": "Albania",
+		"shortNames": ["albania", "alb"],
+		"url": "https://www.albania.al"
+	},
+	{
+		"name": "Algeria",
+		"shortNames": ["algeria", "alg"],
+		"url": "https://www.algeria.com"
+	},
+	{
+		"name": "Andorra",
+		"shortNames": ["andorra"],
+		"url": "https://www.andorra.ad"
+	},
+	{
+		"name": "Angola",
+		"shortNames": ["angola"],
+		"url": "https://www.angola.gov.ao"
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"shortNames": ["antigua", "barbuda"],
+		"url": "https://www.antigua-barbuda.org"
+	},
+	{
+		"name": "Argentina",
+		"shortNames": ["argentina", "arg"],
+		"url": "https://www.argentina.gob.ar"
+	},
+	{
+		"name": "Armenia",
+		"shortNames": ["armenia"],
+		"url": "https://www.gov.am"
+	},
+	{
+		"name": "Australia",
+		"shortNames": ["australia", "aussie"],
+		"url": "https://www.australia.gov.au"
+	},
+	{
+		"name": "Austria",
+		"shortNames": ["austria"],
+		"url": "https://www.austria.gv.at"
+	},
+	{
+		"name": "Azerbaijan",
+		"shortNames": ["azerbaijan"],
+		"url": "https://www.azerbaijan.az"
+	},
+	{
+		"name": "Bahamas",
+		"shortNames": ["bahamas"],
+		"url": "https://www.bahamas.gov.bs"
+	},
+	{
+		"name": "Bahrain",
+		"shortNames": ["bahrain"],
+		"url": "https://www.bahrain.bh"
+	},
+	{
+		"name": "Bangladesh",
+		"shortNames": ["bangladesh"],
+		"url": "https://www.bangladesh.gov.bd"
+	},
+	{
+		"name": "Barbados",
+		"shortNames": ["barbados"],
+		"url": "https://www.gov.bb"
+	},
+	{
+		"name": "Belarus",
+		"shortNames": ["belarus"],
+		"url": "https://www.belarus.by"
+	},
+	{
+		"name": "Belgium",
+		"shortNames": ["belgium", "belg"],
+		"url": "https://www.belgium.be"
+	},
+	{
+		"name": "Belize",
+		"shortNames": ["belize"],
+		"url": "https://www.belize.gov.bz"
+	},
+	{
+		"name": "Benin",
+		"shortNames": ["benin"],
+		"url": "https://www.benin.bj"
+	},
+	{
+		"name": "Bhutan",
+		"shortNames": ["bhutan"],
+		"url": "https://www.bhutan.gov.bt"
+	},
+	{
+		"name": "Bolivia",
+		"shortNames": ["bolivia"],
+		"url": "https://www.bolivia.bo"
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"shortNames": ["bosnia", "herzegovina", "bih"],
+		"url": "https://www.bih.ba"
+	},
+	{
+		"name": "Botswana",
+		"shortNames": ["botswana"],
+		"url": "https://www.gov.bw"
+	},
+	{
+		"name": "Brazil",
+		"shortNames": ["brazil"],
+		"url": "https://www.gov.br"
+	},
+	{
+		"name": "Brunei",
+		"shortNames": ["brunei"],
+		"url": "https://www.gov.bn"
+	},
+	{
+		"name": "Bulgaria",
+		"shortNames": ["bulgaria", "bul"],
+		"url": "https://www.government.bg"
+	},
+	{
+		"name": "Burkina Faso",
+		"shortNames": ["burkina"],
+		"url": "https://www.gouvernement.gov.bf"
+	},
+	{
+		"name": "Burundi",
+		"shortNames": ["burundi"],
+		"url": "https://www.burundi.gov.bi"
+	},
+	{
+		"name": "Cambodia",
+		"shortNames": ["cambodia", "khmer"],
+		"url": "https://www.cambodia.gov.kh"
+	},
+	{
+		"name": "Cameroon",
+		"shortNames": ["cameroon"],
+		"url": "https://www.cameroon.cm"
+	},
+	{
+		"name": "Canada",
+		"shortNames": ["canada"],
+		"url": "https://www.canada.ca"
+	},
+	{
+		"name": "Cape Verde",
+		"shortNames": ["cape verde", "cabo verde"],
+		"url": "https://www.governo.cv"
+	},
+	{
+		"name": "Central African Republic",
+		"shortNames": ["central african republic", "car"],
+		"url": "https://www.gouv.cf"
+	},
+	{
+		"name": "Chad",
+		"shortNames": ["chad"],
+		"url": "https://www.presidencetchad.org"
+	},
+	{
+		"name": "Chile",
+		"shortNames": ["chile"],
+		"url": "https://www.gob.cl"
+	},
+	{
+		"name": "China",
+		"shortNames": ["china"],
+		"url": "https://www.gov.cn"
+	},
+	{
+		"name": "Colombia",
+		"shortNames": ["colombia"],
+		"url": "https://www.gov.co"
+	},
+	{
+		"name": "Comoros",
+		"shortNames": ["comoros"],
+		"url": "https://www.beit-salam.km"
+	},
+	{
+		"name": "Congo (Brazzaville)",
+		"shortNames": ["congo-brazzaville", "congo"],
+		"url": "https://www.gouvernement.cg"
+	},
+	{
+		"name": "Congo (Kinshasa)",
+		"shortNames": ["congo-kinshasa", "drc"],
+		"url": "https://www.gouv.cd"
+	},
+	{
+		"name": "Costa Rica",
+		"shortNames": ["costa rica"],
+		"url": "https://www.gobiernodecostarica.go.cr"
+	},
+	{
+		"name": "Croatia",
+		"shortNames": ["croatia", "hrvatska"],
+		"url": "https://www.vlada.hr"
+	},
+	{
+		"name": "Cuba",
+		"shortNames": ["cuba"],
+		"url": "https://www.gobierno.cu"
+	},
+	{
+		"name": "Cyprus",
+		"shortNames": ["cyprus"],
+		"url": "https://www.cyprus.gov.cy"
+	},
+	{
+		"name": "Czech Republic",
+		"shortNames": ["czech republic", "czechia"],
+		"url": "https://www.vlada.cz"
+	},
+	{
+		"name": "Denmark",
+		"shortNames": ["denmark", "danmark"],
+		"url": "https://www.denmark.dk"
+	},
+	{
+		"name": "Djibouti",
+		"shortNames": ["djibouti"],
+		"url": "https://www.presidence.dj"
+	},
+	{
+		"name": "Dominica",
+		"shortNames": ["dominica"],
+		"url": "https://www.dominica.gov.dm"
+	},
+	{
+		"name": "Dominican Republic",
+		"shortNames": ["dominican republic", "dominicana"],
+		"url": "https://www.gob.do"
+	},
+	{
+		"name": "East Timor",
+		"shortNames": ["east timor", "timor-leste"],
+		"url": "https://www.timor-leste.gov.tl"
+	},
+	{
+		"name": "Ecuador",
+		"shortNames": ["ecuador"],
+		"url": "https://www.presidencia.gob.ec"
+	},
+	{
+		"name": "Egypt",
+		"shortNames": ["egypt"],
+		"url": "https://www.egypt.gov.eg"
+	},
+	{
+		"name": "El Salvador",
+		"shortNames": ["el salvador"],
+		"url": "https://www.presidencia.gob.sv"
+	},
+	{
+		"name": "Equatorial Guinea",
+		"shortNames": ["equatorial guinea"],
+		"url": "https://www.guineaecuatorialpress.com"
+	},
+	{
+		"name": "Eritrea",
+		"shortNames": ["eritrea"],
+		"url": "https://www.shabait.com"
+	},
+	{
+		"name": "Estonia",
+		"shortNames": ["estonia", "eesti"],
+		"url": "https://www.valitsus.ee"
+	},
+	{
+		"name": "Eswatini",
+		"shortNames": ["eswatini", "swaziland"],
+		"url": "https://www.gov.sz"
+	},
+	{
+		"name": "Ethiopia",
+		"shortNames": ["ethiopia"],
+		"url": "https://www.ethiopia.gov.et"
+	},
+	{
+		"name": "Fiji",
+		"shortNames": ["fiji"],
+		"url": "https://www.fiji.gov.fj"
+	},
+	{
+		"name": "Finland",
+		"shortNames": ["finland", "suomi"],
+		"url": "https://www.valtioneuvosto.fi"
+	},
+	{
+		"name": "France",
+		"shortNames": ["france"],
+		"url": "https://www.gouvernement.fr"
+	},
+	{
+		"name": "Gabon",
+		"shortNames": ["gabon"],
+		"url": "https://www.gouvernement.ga"
+	},
+	{
+		"name": "Gambia",
+		"shortNames": ["gambia"],
+		"url": "https://www.statehouse.gm"
+	},
+	{
+		"name": "Georgia",
+		"shortNames": ["georgia"],
+		"url": "https://www.gov.ge"
+	},
+	{
+		"name": "Germany",
+		"shortNames": ["germany", "deutschland"],
+		"url": "https://www.bundesregierung.de"
+	},
+	{
+		"name": "Ghana",
+		"shortNames": ["ghana"],
+		"url": "https://www.ghana.gov.gh"
+	},
+	{
+		"name": "Greece",
+		"shortNames": ["greece", "hellas"],
+		"url": "https://www.government.gr"
+	},
+	{
+		"name": "Grenada",
+		"shortNames": ["grenada"],
+		"url": "https://www.gov.gd"
+	},
+	{
+		"name": "Guatemala",
+		"shortNames": ["guatemala"],
+		"url": "https://www.guatemala.gob.gt"
+	},
+	{
+		"name": "Guinea",
+		"shortNames": ["guinea"],
+		"url": "https://www.gouvernement.gov.gn"
+	},
+	{
+		"name": "Guinea-Bissau",
+		"shortNames": ["guinea-bissau"],
+		"url": "https://www.guinebissau.gov.gw"
+	},
+	{
+		"name": "Guyana",
+		"shortNames": ["guyana"],
+		"url": "https://www.op.gov.gy"
+	},
+	{
+		"name": "Haiti",
+		"shortNames": ["haiti"],
+		"url": "https://www.haiti.gov.ht"
+	},
+	{
+		"name": "Honduras",
+		"shortNames": ["honduras"],
+		"url": "https://www.gob.hn"
+	},
+	{
+		"name": "Hungary",
+		"shortNames": ["hungary", "magyarország"],
+		"url": "https://www.kormany.hu"
+	},
+	{
+		"name": "Iceland",
+		"shortNames": ["iceland", "ísland"],
+		"url": "https://www.government.is"
+	},
+	{
+		"name": "India",
+		"shortNames": ["india"],
+		"url": "https://www.india.gov.in"
+	},
+	{
+		"name": "Indonesia",
+		"shortNames": ["indonesia"],
+		"url": "https://www.indonesia.go.id"
+	},
+	{
+		"name": "Iran",
+		"shortNames": ["iran"],
+		"url": "https://www.iran.ir"
+	},
+	{
+		"name": "Iraq",
+		"shortNames": ["iraq"],
+		"url": "https://www.iraq.gov.iq"
+	},
+	{
+		"name": "Ireland",
+		"shortNames": ["ireland", "éire"],
+		"url": "https://www.gov.ie"
+	},
+	{
+		"name": "Israel",
+		"shortNames": ["israel"],
+		"url": "https://www.gov.il"
+	},
+	{
+		"name": "Italy",
+		"shortNames": ["italy", "italia"],
+		"url": "https://www.governo.it"
+	},
+	{
+		"name": "Jamaica",
+		"shortNames": ["jamaica"],
+		"url": "https://www.jis.gov.jm"
+	},
+	{
+		"name": "Japan",
+		"shortNames": ["japan"],
+		"url": "https://www.japan.go.jp"
+	},
+	{
+		"name": "Jordan",
+		"shortNames": ["jordan"],
+		"url": "https://www.jordan.gov.jo"
+	},
+	{
+		"name": "Kazakhstan",
+		"shortNames": ["kazakhstan", "qazaqstan"],
+		"url": "https://www.akorda.kz"
+	},
+	{
+		"name": "Kenya",
+		"shortNames": ["kenya"],
+		"url": "https://www.mygov.go.ke"
+	},
+	{
+		"name": "Kiribati",
+		"shortNames": ["kiribati"],
+		"url": "https://www.kiribatigov.ki"
+	},
+	{
+		"name": "Korea, North",
+		"shortNames": ["north korea", "dprk"],
+		"url": "https://www.korea-dpr.com"
+	},
+	{
+		"name": "Korea, South",
+		"shortNames": ["south korea", "korea"],
+		"url": "https://www.korea.kr"
+	},
+	{
+		"name": "Kosovo",
+		"shortNames": ["kosovo"],
+		"url": "https://www.rks-gov.net"
+	},
+	{
+		"name": "Kuwait",
+		"shortNames": ["kuwait"],
+		"url": "https://www.e.gov.kw"
+	},
+	{
+		"name": "Kyrgyzstan",
+		"shortNames": ["kyrgyzstan", "kyrgyz"],
+		"url": "https://www.gov.kg"
+	},
+	{
+		"name": "Laos",
+		"shortNames": ["laos", "lao"],
+		"url": "https://www.laopdr.gov.la"
+	},
+	{
+		"name": "Latvia",
+		"shortNames": ["latvia", "latvija"],
+		"url": "https://www.mk.gov.lv"
+	},
+	{
+		"name": "Lebanon",
+		"shortNames": ["lebanon"],
+		"url": "https://www.lebanon.gov.lb"
+	},
+	{
+		"name": "Lesotho",
+		"shortNames": ["lesotho"],
+		"url": "https://www.gov.ls"
+	},
+	{
+		"name": "Liberia",
+		"shortNames": ["liberia"],
+		"url": "https://www.liberia.gov.lr"
+	},
+	{
+		"name": "Libya",
+		"shortNames": ["libya"],
+		"url": "https://www.libya.gov.ly"
+	},
+	{
+		"name": "Liechtenstein",
+		"shortNames": ["liechtenstein"],
+		"url": "https://www.regierung.li"
+	},
+	{
+		"name": "Lithuania",
+		"shortNames": ["lithuania", "lietuva"],
+		"url": "https://www.lrv.lt"
+	},
+	{
+		"name": "Luxembourg",
+		"shortNames": ["luxembourg"],
+		"url": "https://www.gouvernement.lu"
+	},
+	{
+		"name": "Madagascar",
+		"shortNames": ["madagascar"],
+		"url": "https://www.madagascar.gov.mg"
+	},
+	{
+		"name": "Malawi",
+		"shortNames": ["malawi"],
+		"url": "https://www.malawi.gov.mw"
+	},
+	{
+		"name": "Malaysia",
+		"shortNames": ["malaysia"],
+		"url": "https://www.malaysia.gov.my"
+	},
+	{
+		"name": "Maldives",
+		"shortNames": ["maldives"],
+		"url": "https://www.maldives.gov.mv"
+	},
+	{
+		"name": "Mali",
+		"shortNames": ["mali"],
+		"url": "https://www.gouv.ml"
+	},
+	{
+		"name": "Malta",
+		"shortNames": ["malta"],
+		"url": "https://www.gov.mt"
+	},
+	{
+		"name": "Marshall Islands",
+		"shortNames": ["marshall islands"],
+		"url": "https://www.rmioc.gov.mh"
+	},
+	{
+		"name": "Mauritania",
+		"shortNames": ["mauritania"],
+		"url": "https://www.gouv.mr"
+	},
+	{
+		"name": "Mauritius",
+		"shortNames": ["mauritius"],
+		"url": "https://www.govmu.org"
+	},
+	{
+		"name": "Mexico",
+		"shortNames": ["mexico"],
+		"url": "https://www.gob.mx"
+	},
+	{
+		"name": "Micronesia",
+		"shortNames": ["micronesia"],
+		"url": "https://www.fsmpio.fm"
+	},
+	{
+		"name": "Moldova",
+		"shortNames": ["moldova"],
+		"url": "https://www.gov.md"
+	},
+	{
+		"name": "Monaco",
+		"shortNames": ["monaco"],
+		"url": "https://www.gouv.mc"
+	},
+	{
+		"name": "Mongolia",
+		"shortNames": ["mongolia"],
+		"url": "https://www.gov.mn"
+	},
+	{
+		"name": "Montenegro",
+		"shortNames": ["montenegro"],
+		"url": "https://www.gov.me"
+	},
+	{
+		"name": "Morocco",
+		"shortNames": ["morocco"],
+		"url": "https://www.maroc.ma"
+	},
+	{
+		"name": "Mozambique",
+		"shortNames": ["mozambique"],
+		"url": "https://www.portaldogoverno.gov.mz"
+	},
+	{
+		"name": "Myanmar",
+		"shortNames": ["myanmar", "burma"],
+		"url": "https://www.myanmar.gov.mm"
+	},
+	{
+		"name": "Namibia",
+		"shortNames": ["namibia"],
+		"url": "https://www.gov.na"
+	},
+	{
+		"name": "Nauru",
+		"shortNames": ["nauru"],
+		"url": "https://www.naurugov.nr"
+	},
+	{
+		"name": "Nepal",
+		"shortNames": ["nepal"],
+		"url": "https://www.nepal.gov.np"
+	},
+	{
+		"name": "Netherlands",
+		"shortNames": ["netherlands", "holland"],
+		"url": "https://www.government.nl"
+	},
+	{
+		"name": "New Zealand",
+		"shortNames": ["new zealand", "nz"],
+		"url": "https://www.govt.nz"
+	},
+	{
+		"name": "Nicaragua",
+		"shortNames": ["nicaragua"],
+		"url": "https://www.presidencia.gob.ni"
+	},
+	{
+		"name": "Niger",
+		"shortNames": ["niger"],
+		"url": "https://www.presidence.ne"
+	},
+	{
+		"name": "Nigeria",
+		"shortNames": ["nigeria"],
+		"url": "https://www.nigeria.gov.ng"
+	},
+	{
+		"name": "North Macedonia",
+		"shortNames": ["north macedonia", "macedonia"],
+		"url": "https://www.vlada.mk"
+	},
+	{
+		"name": "Norway",
+		"shortNames": ["norway", "norge"],
+		"url": "https://www.regjeringen.no"
+	},
+	{
+		"name": "Oman",
+		"shortNames": ["oman"],
+		"url": "https://www.oman.om"
+	},
+	{
+		"name": "Pakistan",
+		"shortNames": ["pakistan"],
+		"url": "https://www.pakistan.gov.pk"
+	},
+	{
+		"name": "Palau",
+		"shortNames": ["palau"],
+		"url": "https://www.palaugov.pw"
+	},
+	{
+		"name": "Panama",
+		"shortNames": ["panama"],
+		"url": "https://www.presidencia.gob.pa"
+	},
+	{
+		"name": "Papua New Guinea",
+		"shortNames": ["papua new guinea", "png"],
+		"url": "https://www.pm.gov.pg"
+	},
+	{
+		"name": "Paraguay",
+		"shortNames": ["paraguay"],
+		"url": "https://www.presidencia.gov.py"
+	},
+	{
+		"name": "Peru",
+		"shortNames": ["peru"],
+		"url": "https://www.gob.pe"
+	},
+	{
+		"name": "Philippines",
+		"shortNames": ["philippines"],
+		"url": "https://www.gov.ph"
+	},
+	{
+		"name": "Poland",
+		"shortNames": ["poland", "polska"],
+		"url": "https://www.gov.pl"
+	},
+	{
+		"name": "Portugal",
+		"shortNames": ["portugal"],
+		"url": "https://www.portugal.gov.pt"
+	},
+	{
+		"name": "Qatar",
+		"shortNames": ["qatar"],
+		"url": "https://www.gov.qa"
+	},
+	{
+		"name": "Romania",
+		"shortNames": ["romania", "românia"],
+		"url": "https://www.gov.ro"
+	},
+	{
+		"name": "Russia",
+		"shortNames": ["russia", "russian federation"],
+		"url": "https://www.government.ru"
+	},
+	{
+		"name": "Rwanda",
+		"shortNames": ["rwanda"],
+		"url": "https://www.gov.rw"
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"shortNames": ["saint kitts and nevis", "st. kitts", "nevis"],
+		"url": "https://www.gov.kn"
+	},
+	{
+		"name": "Saint Lucia",
+		"shortNames": ["saint lucia", "st. lucia"],
+		"url": "https://www.govt.lc"
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"shortNames": [
+			"saint vincent and the grenadines",
+			"st. vincent",
+			"grenadines"
+		],
+		"url": "https://www.gov.vc"
+	},
+	{
+		"name": "Samoa",
+		"shortNames": ["samoa"],
+		"url": "https://www.samoagovt.ws"
+	},
+	{
+		"name": "San Marino",
+		"shortNames": ["san marino"],
+		"url": "https://www.sanmarino.sm"
+	},
+	{
+		"name": "Sao Tome and Principe",
+		"shortNames": ["sao tome and principe", "são tomé"],
+		"url": "https://www.saotome.st"
+	},
+	{
+		"name": "Saudi Arabia",
+		"shortNames": ["saudi arabia", "saudi"],
+		"url": "https://www.saudi.gov.sa"
+	},
+	{
+		"name": "Senegal",
+		"shortNames": ["senegal"],
+		"url": "https://www.sec.gouv.sn"
+	},
+	{
+		"name": "Serbia",
+		"shortNames": ["serbia"],
+		"url": "https://www.srbija.gov.rs"
+	},
+	{
+		"name": "Seychelles",
+		"shortNames": ["seychelles"],
+		"url": "https://www.gov.sc"
+	},
+	{
+		"name": "Sierra Leone",
+		"shortNames": ["sierra leone"],
+		"url": "https://www.statehouse.gov.sl"
+	},
+	{
+		"name": "Singapore",
+		"shortNames": ["singapore"],
+		"url": "https://www.gov.sg"
+	},
+	{
+		"name": "Slovakia",
+		"shortNames": ["slovakia", "slovensko"],
+		"url": "https://www.vlada.gov.sk"
+	},
+	{
+		"name": "Slovenia",
+		"shortNames": ["slovenia", "slovenija"],
+		"url": "https://www.vlada.si"
+	},
+	{
+		"name": "Solomon Islands",
+		"shortNames": ["solomon islands"],
+		"url": "https://www.solomons.gov.sb"
+	},
+	{
+		"name": "Somalia",
+		"shortNames": ["somalia"],
+		"url": "https://www.somalia.gov.so"
+	},
+	{
+		"name": "South Africa",
+		"shortNames": ["south africa"],
+		"url": "https://www.gov.za"
+	},
+	{
+		"name": "South Sudan",
+		"shortNames": ["south sudan"],
+		"url": "https://www.goss.org"
+	},
+	{
+		"name": "Spain",
+		"shortNames": ["spain", "españa"],
+		"url": "https://www.lamoncloa.gob.es"
+	},
+	{
+		"name": "Sri Lanka",
+		"shortNames": ["sri lanka"],
+		"url": "https://www.gov.lk"
+	},
+	{
+		"name": "Sudan",
+		"shortNames": ["sudan"],
+		"url": "https://www.sudan.gov.sd"
+	},
+	{
+		"name": "Suriname",
+		"shortNames": ["suriname"],
+		"url": "https://www.gov.sr"
+	},
+	{
+		"name": "Sweden",
+		"shortNames": ["sweden", "sverige"],
+		"url": "https://www.government.se"
+	},
+	{
+		"name": "Switzerland",
+		"shortNames": ["switzerland", "schweiz", "suisse", "svizzera"],
+		"url": "https://www.admin.ch"
+	},
+	{
+		"name": "Syria",
+		"shortNames": ["syria"],
+		"url": "https://www.egov.sy"
+	},
+	{
+		"name": "Taiwan",
+		"shortNames": ["taiwan"],
+		"url": "https://www.taiwan.gov.tw"
+	},
+	{
+		"name": "Tajikistan",
+		"shortNames": ["tajikistan"],
+		"url": "https://www.prezident.tj"
+	},
+	{
+		"name": "Tanzania",
+		"shortNames": ["tanzania"],
+		"url": "https://www.tanzania.go.tz"
+	},
+	{
+		"name": "Thailand",
+		"shortNames": ["thailand"],
+		"url": "https://www.thaigov.go.th"
+	},
+	{
+		"name": "Timor-Leste",
+		"shortNames": ["timor-leste", "east timor"],
+		"url": "https://www.timor-leste.gov.tl"
+	},
+	{
+		"name": "Togo",
+		"shortNames": ["togo"],
+		"url": "https://www.republicoftogo.com"
+	},
+	{
+		"name": "Tonga",
+		"shortNames": ["tonga"],
+		"url": "https://www.gov.to"
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"shortNames": ["trinidad and tobago"],
+		"url": "https://www.ttconnect.gov.tt"
+	},
+	{
+		"name": "Tunisia",
+		"shortNames": ["tunisia"],
+		"url": "https://www.tunisie.gov.tn"
+	},
+	{
+		"name": "Turkey",
+		"shortNames": ["turkey", "türkiye"],
+		"url": "https://www.turkiye.gov.tr"
+	},
+	{
+		"name": "Turkmenistan",
+		"shortNames": ["turkmenistan"],
+		"url": "https://www.turkmenistan.gov.tm"
+	},
+	{
+		"name": "Tuvalu",
+		"shortNames": ["tuvalu"],
+		"url": "https://www.tuvaluislands.com/gov.htm"
+	},
+	{
+		"name": "Uganda",
+		"shortNames": ["uganda"],
+		"url": "https://www.gov.ug"
+	},
+	{
+		"name": "Ukraine",
+		"shortNames": ["ukraine"],
+		"url": "https://www.kmu.gov.ua"
+	},
+	{
+		"name": "United Arab Emirates",
+		"shortNames": ["uae", "united arab emirates"],
+		"url": "https://www.government.ae"
+	},
+	{
+		"name": "United Kingdom",
+		"shortNames": ["uk", "united kingdom"],
+		"url": "https://www.gov.uk"
+	},
+	{
+		"name": "United States",
+		"shortNames": ["us", "united states", "america"],
+		"url": "https://www.usa.gov"
+	},
+	{
+		"name": "Uruguay",
+		"shortNames": ["uruguay"],
+		"url": "https://www.presidencia.gub.uy"
+	},
+	{
+		"name": "Uzbekistan",
+		"shortNames": ["uzbekistan"],
+		"url": "https://www.gov.uz"
+	},
+	{
+		"name": "Vanuatu",
+		"shortNames": ["vanuatu"],
+		"url": "https://www.governmentofvanuatu.gov.vu"
+	},
+	{
+		"name": "Vatican City",
+		"shortNames": ["vatican city"],
+		"url": "https://www.vatican.va"
+	},
+	{
+		"name": "Venezuela",
+		"shortNames": ["venezuela"],
+		"url": "https://www.gobiernoenlinea.ve"
+	},
+	{
+		"name": "Vietnam",
+		"shortNames": ["vietnam"],
+		"url": "https://www.chinhphu.vn"
+	},
+	{
+		"name": "Yemen",
+		"shortNames": ["yemen"],
+		"url": "https://www.yemen.gov.ye"
+	},
+	{
+		"name": "Zambia",
+		"shortNames": ["zambia"],
+		"url": "https://www.zambia.gov.zm"
+	},
+	{
+		"name": "Zimbabwe",
+		"shortNames": ["zimbabwe"],
+		"url": "https://www.zim.gov.zw"
+	}
+]
